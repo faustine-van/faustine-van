@@ -10,4 +10,5 @@
 ## How to reach me
 <div id="badges">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <img src=""https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F44Fatech alt="Twitter Badge"/>
 </div>
