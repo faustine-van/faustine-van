@@ -1,14 +1,14 @@
-<div id="header" align="center">
+<div id="header" align="center" style="background-color: #f0f0f0; color: #333; padding: 10px;">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="header" align="center">
-  <h1>Hello, There!</h1>
+  <h1>Hello, There! I am Faustine</h1>
 </div>
 
-- 👋 Hi, I’m @faustine-van
-- 👀 I’m interested in technology
+- Welcome to my GitHub profile!
+- 👋 I’m a versatile **developer** with a passion width a strong foundation in coding
+- 👀 I’m also interested in technology
 - 🌱 I’m currently learning software engineering in ALX program
-- How to reach me 
+- Feel free to explore my repositories and get in touch if you'd like to collaborate or discuss exciting opportunities or just a friendly chat.
+- Let's connect 
 <div id="badges">
   <a href="https://www.linkedin.com/in/muhayemariya-faustine-404376267/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,6 +17,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-### :hammer_and_wrench: Languages and Tools :
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faustine-van&show_icons=true&theme=transparent&text_color=ffffff&bg_color=blue)](https://github.com/anuraghazra/github-readme-stats)
+
+<h1 align="center"> Thanks for stopping by</h1>
