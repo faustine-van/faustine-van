@@ -8,7 +8,7 @@
 - 👀 I’m also interested in technology
 - 🌱 I’m currently learning software engineering in ALX program
 - Feel free to explore my repositories and get in touch if you'd like to collaborate or discuss exciting opportunities or just a friendly chat.
-- Let's connect
+- Let's connect <u>faustinemuhayemariya44@gmail.com<u>
 <div id="badges">
   <a href="https://www.linkedin.com/in/muhayemariya-faustine-404376267/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
