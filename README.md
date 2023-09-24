@@ -18,6 +18,4 @@
   </a>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faustine-van&show_icons=true&theme=transparent&text_color=ffffff&bg_color=blue)](https://github.com/anuraghazra/github-readme-stats)
-
 <h1 align="center"> Thanks for stopping by</h1>
