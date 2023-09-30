@@ -3,9 +3,8 @@
   <h1>Hello, There! I am Faustine</h1>
 </div>
 
-- Welcome to my GitHub profile!
-- 👋 I’m a versatile **developer** with a passion width a strong foundation in coding
-- 👀 I’m also interested in technology
+- 👋 Welcome to my GitHub profile!
+- 👀 I’m also interested in  coding and technology
 - 🌱 I’m currently learning software engineering in ALX program
 - Feel free to explore my repositories and get in touch if you'd like to collaborate or discuss exciting opportunities or just a friendly chat.
 - Let's connect <u>faustinemuhayemariya44@gmail.com<u>
