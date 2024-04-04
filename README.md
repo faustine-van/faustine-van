@@ -5,7 +5,7 @@
 
 - 👋 Welcome to my GitHub profile!
 - 👀 I'm passionate about coding and technology.
-- 🌱 I’m currently learning software engineering in ALX program
+- 🌱 I'm constantly expanding my knowledge in software engineering.
 - Feel free to explore my repositories and get in touch if you'd like to collaborate or discuss exciting opportunities or just a friendly chat.
 - Let's connect <u>faustinemuhayemariya44@gmail.com<u>
 <div id="badges">
@@ -17,4 +17,4 @@
   </a>
 </div>
 
-<h1 align="center"> Thank You for Stopping By</h1>
+<h2>Thank you for taking the time to explore my profile!</h2>
