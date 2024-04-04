@@ -1,6 +1,6 @@
 <div id="header" align="center" style="background-color: #f0f0f0; color: #333; padding: 10px;">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>Hello, There! I am Faustine</h1>
+  <h1>Howdy folks, I'm Faustine.</h1>
 </div>
 
 - 👋 Welcome to my GitHub profile!
