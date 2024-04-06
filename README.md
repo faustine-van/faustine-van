@@ -15,6 +15,7 @@
   <a href="https://twitter.com/44Fatech?t=QCOFmJ9-PuNhHe9bflmiUw&s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  
 </div>
 
 <h2>Thank you for taking the time to explore my profile!</h2>
