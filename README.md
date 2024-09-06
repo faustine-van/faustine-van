@@ -10,7 +10,7 @@
 
 <h2>🌟 Featured Projects</h2>
 
-  - 🌟 [SkillQuanta](https://github.com/faustine-van/skill_quanta-hub)
+  - 🌟 [SkillQuanta](https://github.com/faustine-van/tech_guide_hub)
   A career development platform offering resources like scholarships, job placements, and mentorship. Explore [SkillQuanta](https://skillquanta.com).
   
   - 🖼️ [MindCrafted Nexus]() *(Upcoming)*
