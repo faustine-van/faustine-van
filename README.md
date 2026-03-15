@@ -10,7 +10,7 @@
 
 ## 👋 Hey, I'm Faustine
 
-I'm a software engineer who enjoys turning ideas into products that actually ship. I work across the full stack — from wiring up APIs to making UIs feel smooth — and I'm always looking for ways to make tech more useful for real people.
+I'm a software engineer who enjoys turning ideas into products that actually ship. I work across the full stack from wiring up APIs to making UIs feel smooth  and I'm always looking for ways to make tech more useful for real people.
 
 - 🔭 Currently building **[Household Credit Tracker](https://github.com/faustine-van/credit-tracker)** — a full-stack budgeting app with real-time sync and admin dashboards
 - ✍️ Writing on **[my blog](https://faustinemuhayemariya44.hashnode.dev/)** about what I'm learning and building
