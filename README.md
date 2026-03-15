@@ -12,22 +12,22 @@
 
 I'm a software engineer who enjoys turning ideas into products that actually ship. I work across the full stack from wiring up APIs to making UIs feel smooth  and I'm always looking for ways to make tech more useful for real people.
 
-- 🔭 Currently building **[Household Credit Tracker](https://github.com/faustine-van/credit-tracker)** — a full-stack budgeting app with real-time sync and admin dashboards
-- ✍️ Writing on **[my blog](https://faustinemuhayemariya44.hashnode.dev/)** about what I'm learning and building
-- 📬 **faustinemuhayemariya44@gmail.com**
+- Currently building **[Household Credit Tracker](https://github.com/faustine-van/credit-tracker)** — a full-stack budgeting app with real-time sync and admin dashboards
+- Writing on **[my blog](https://faustinemuhayemariya44.hashnode.dev/)** about what I'm learning and building
+- **faustinemuhayemariya44@gmail.com**
 
 ---
 
-## 🚀 Projects
+## Projects
 
 **[Household Credit Tracker](https://github.com/faustine-van/credit-tracker)**
 A full-stack app for tracking household purchases and managing budgets. Features real-time sync, user & admin dashboards, budget warnings, and dark mode.
 `React` `TypeScript` `Convex` `Clerk` `TailwindCSS` `shadcn/ui`
-> 🔨 Active development
+> Active development
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 <div align="center">
 
@@ -47,7 +47,7 @@ A full-stack app for tracking household purchases and managing budgets. Features
 
 ---
 
-## 📊 Stats
+## Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faustine-van&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff" height="160"/>
@@ -64,7 +64,7 @@ A full-stack app for tracking household purchases and managing budgets. Features
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 <div align="center">
 
