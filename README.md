@@ -8,7 +8,7 @@
 
 ---
 
-## 👋 Hey, I'm Faustine
+## 👋 Hey folks, I'm Faustine
 
 I'm a software engineer who enjoys turning ideas into products that actually ship. I work across the full stack from wiring up APIs to making UIs feel smooth  and I'm always looking for ways to make tech more useful for real people.
 
